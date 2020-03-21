@@ -15,7 +15,7 @@ org/godotengine/godot/Torch
 ```
 Sample Code
 ---------
-The files in the root of this repository can be used as a Godot demo project, after enable the "Android Custom Template" and move ```torch-plugin``` directory under ```res://android/``` directory
+The files in the root of this repository can be used as a Godot demo project, after enabling the "Android Custom Template" and moving ```torch-plugin``` directory under ```res://android/``` directory
 
 Donations
 ---------
