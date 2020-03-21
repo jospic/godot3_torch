@@ -13,6 +13,9 @@ How to use
 ```
 org/godotengine/godot/Torch
 ```
+Sample Code
+---------
+The files in the root of this repository can be used as a demo project, after enable the "Android Custom Template" and move torch-plugin under ```res://android/``` directory
 
 Donations
 ---------
