@@ -28,7 +28,7 @@ My [Paypal donation link](https://www.paypal.me/donatejospic?locale.x=it_IT)
 API Reference
 -------------
 
-### Properties
+### How to use it in your code
 ```python
 
 var torch
