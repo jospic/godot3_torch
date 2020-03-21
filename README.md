@@ -14,10 +14,6 @@ How to use
 org/godotengine/godot/Torch
 ```
 
-Sample code
------
-This repository is a full working sample project.
-
 Donations
 ---------
 Was this project useful for you? Wanna make a donation? These are the options:
